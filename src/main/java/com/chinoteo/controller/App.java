@@ -10,6 +10,5 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("Bicas no mas");
-        System.out.println("calla cgd");
     }
 }
